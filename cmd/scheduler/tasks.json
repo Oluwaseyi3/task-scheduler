@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1,
+    "name": "Send email",
+    "schedule": 1,
+    "description": "Send hourly mails"
+  }
+]
